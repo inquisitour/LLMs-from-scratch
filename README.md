@@ -14,7 +14,7 @@ The method described in this book for training and developing your own small-but
 - Link to the official [source code repository](https://github.com/rasbt/LLMs-from-scratch)
 - [Link to the early access version](http://mng.bz/orYv) at Manning
 - ISBN 9781633437166
-- Publication in Early 2025 (estimated)
+- Publication: 2025
 
 <br>
 <br>
